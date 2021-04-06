@@ -1,0 +1,8 @@
+package com.pierredev.repositories;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface VendaRepository extend Jp{
+
+}

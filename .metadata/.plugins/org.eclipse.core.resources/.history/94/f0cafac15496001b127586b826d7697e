@@ -1,0 +1,5 @@
+package com.pierredev.msvenda.resources;
+
+public class ProdutoResource {
+
+}

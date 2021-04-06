@@ -1,0 +1,5 @@
+package com.pierredev.msvenda.repositories;
+
+public class ProdutoRepository {
+
+}

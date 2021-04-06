@@ -1,0 +1,360 @@
+2021-04-05 17:34:02,887 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-05 17:35:05,553 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:ms-venda:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/pom.xml.
+2021-04-05 17:35:06,507 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/main/java
+2021-04-05 17:35:06,508 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-05 17:35:06,508 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-05 17:35:06,509 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/test/java
+2021-04-05 17:35:06,663 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2021-04-05 17:35:07,933 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:35:07,936 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:35:07,948 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:35:07,950 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:35:07,951 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:37:05,171 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-05 17:37:05,677 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:ms-venda:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/pom.xml.
+2021-04-05 17:37:05,956 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/main/java
+2021-04-05 17:37:05,956 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-05 17:37:05,956 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-05 17:37:05,956 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/test/java
+2021-04-05 17:37:06,207 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-04-05 17:37:06,638 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:37:06,638 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:37:06,655 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:37:06,658 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:37:06,658 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:38:06,967 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:38:06,968 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:38:06,970 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:38:06,972 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:38:06,972 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:39:30,061 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:39:30,063 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:39:30,064 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:39:30,067 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:39:30,067 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:39:47,176 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:39:47,178 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:39:47,180 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:39:47,182 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:39:47,182 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:39:48,287 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:39:48,287 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:39:48,288 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:39:48,289 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:39:48,289 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:40:36,697 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-05 17:40:37,170 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:ms-venda:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/pom.xml.
+2021-04-05 17:40:37,466 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/main/java
+2021-04-05 17:40:37,466 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-05 17:40:37,466 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-05 17:40:37,467 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/test/java
+2021-04-05 17:40:37,848 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-04-05 17:40:38,408 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:40:38,408 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:40:38,419 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:40:38,421 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:40:38,421 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:43:09,907 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:43:09,908 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:43:09,909 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:43:09,911 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:43:09,911 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:43:44,450 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:43:44,451 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:43:44,452 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:43:44,453 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:43:44,454 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:47:39,635 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:47:39,636 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:47:39,636 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:47:39,637 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:47:39,638 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:49:50,195 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:49:50,195 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:49:50,196 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:49:50,198 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:49:50,198 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:50:34,303 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:50:34,304 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:50:34,306 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:50:34,310 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:50:34,310 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:51:48,378 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:51:48,379 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:51:48,380 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:51:48,386 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:51:48,386 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:54:56,022 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:ms-venda:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/pom.xml.
+2021-04-05 17:54:56,318 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:54:56,319 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:54:56,324 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:54:56,325 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:54:56,326 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:54:57,734 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:54:57,735 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:54:57,736 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:54:57,737 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:54:57,737 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:57:36,182 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:57:36,182 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:57:36,183 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:57:36,184 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:57:36,185 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:58:04,648 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-05 17:58:05,168 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:ms-venda:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/pom.xml.
+2021-04-05 17:58:06,228 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.3.9.RELEASE/spring-boot-starter-hateoas-2.3.9.RELEASE.pom
+2021-04-05 17:58:06,480 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.3.9.RELEASE/spring-boot-starter-hateoas-2.3.9.RELEASE.pom
+2021-04-05 17:58:06,699 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.1.4.RELEASE/spring-hateoas-1.1.4.RELEASE.pom
+2021-04-05 17:58:07,356 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.1.4.RELEASE/spring-hateoas-1.1.4.RELEASE.pom
+2021-04-05 17:58:07,632 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.3.9.RELEASE/spring-boot-starter-hateoas-2.3.9.RELEASE.jar
+2021-04-05 17:58:07,707 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.1.4.RELEASE/spring-hateoas-1.1.4.RELEASE.jar
+2021-04-05 17:58:07,869 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.3.9.RELEASE/spring-boot-starter-hateoas-2.3.9.RELEASE.jar
+2021-04-05 17:58:09,221 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.1.4.RELEASE/spring-hateoas-1.1.4.RELEASE.jar
+2021-04-05 17:58:09,331 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/main/java
+2021-04-05 17:58:09,332 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-05 17:58:09,332 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-05 17:58:09,332 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/test/java
+2021-04-05 17:58:09,442 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-04-05 17:58:09,857 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:58:09,857 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:58:09,867 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:58:09,870 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:58:09,870 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:58:11,196 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.3.9.RELEASE/spring-boot-starter-hateoas-2.3.9.RELEASE-sources.jar
+2021-04-05 17:58:11,518 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/2.3.9.RELEASE/spring-boot-starter-hateoas-2.3.9.RELEASE-sources.jar
+2021-04-05 17:58:11,519 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-hateoas:2.3.9.RELEASE
+2021-04-05 17:58:12,332 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.1.4.RELEASE/spring-hateoas-1.1.4.RELEASE-sources.jar
+2021-04-05 17:58:12,998 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.1.4.RELEASE/spring-hateoas-1.1.4.RELEASE-sources.jar
+2021-04-05 17:58:13,003 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:1.1.4.RELEASE
+2021-04-05 17:58:13,013 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-hateoas:2.3.9.RELEASE
+2021-04-05 17:58:13,019 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:1.1.4.RELEASE
+2021-04-05 17:58:13,213 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:58:13,214 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:58:13,214 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:58:13,215 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:58:13,215 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 17:59:05,990 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:59:05,991 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 17:59:05,992 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 17:59:05,993 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 17:59:05,993 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:02:55,947 [Worker-27: Launching MsVendaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:02:55,947 [Worker-27: Launching MsVendaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:02:55,948 [Worker-27: Launching MsVendaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:02:55,950 [Worker-27: Launching MsVendaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:02:55,950 [Worker-27: Launching MsVendaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:12:31,552 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:12:31,553 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:12:31,554 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:12:31,555 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:12:31,555 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:12:46,118 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:12:46,119 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:12:46,121 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:12:46,124 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:12:46,124 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:13:47,813 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:13:47,813 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:13:47,814 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:13:47,815 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:13:47,815 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:14:55,564 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:14:55,565 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:14:55,566 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:14:55,569 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:14:55,569 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:20:34,662 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:ms-venda:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/pom.xml.
+2021-04-05 18:20:35,047 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:20:35,049 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:20:35,060 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:20:35,062 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:20:35,062 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:20:36,591 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:20:36,592 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:20:36,595 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:20:36,596 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:20:36,597 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:31:09,587 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:31:09,587 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:31:09,588 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:31:09,590 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:31:09,590 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:31:53,714 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:31:53,714 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:31:53,716 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:31:53,717 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:31:53,717 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 18:40:05,308 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @3996005ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-04-05 18:40:05,470 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-27T20:36:51.615Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 15.0.1+9-18
+2021-04-05 18:40:05,506 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-04-05 18:40:05,506 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-04-05 18:40:05,508 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-04-05 18:40:05,557 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@e77d30c{/help,null,AVAILABLE}
+2021-04-05 18:40:05,578 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5de45063{HTTP/1.1, (http/1.1)}{127.0.0.1:40257}
+2021-04-05 18:40:05,579 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @3996276ms
+2021-04-05 18:40:05,579 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+2021-04-05 18:56:03,213 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:56:03,215 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 18:56:03,216 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 18:56:03,217 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 18:56:03,217 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 19:06:35,350 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:06:35,350 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 19:06:35,351 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 19:06:35,352 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:06:35,353 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 19:13:29,279 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:13:29,281 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 19:13:29,283 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 19:13:29,287 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:13:29,288 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 19:24:01,680 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:24:01,681 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 19:24:01,683 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 19:24:01,689 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:24:01,689 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 19:41:47,644 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:41:47,645 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 19:41:47,646 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 19:41:47,647 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:41:47,647 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 19:44:17,132 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:44:17,133 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 19:44:17,134 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 19:44:17,135 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:44:17,136 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 19:49:13,413 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:49:13,414 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 19:49:13,416 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 19:49:13,418 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 19:49:13,418 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 20:40:57,722 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 20:40:57,724 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 20:40:57,725 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 20:40:57,727 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 20:40:57,728 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 20:43:13,558 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 20:43:13,558 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 20:43:13,560 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 20:43:13,562 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 20:43:13,562 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 20:46:16,641 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:pagamento:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/pagamento/pom.xml.
+2021-04-05 20:46:16,852 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pagamento/src/main/java
+2021-04-05 20:46:16,852 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pagamento/src/main/resources
+2021-04-05 20:46:16,854 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pagamento/src/main/resources
+2021-04-05 20:46:16,857 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pagamento/src/test/java
+2021-04-05 20:46:17,042 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-04-05 20:46:17,043 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-05 20:46:17,133 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:pagamento:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/pagamento/pom.xml.
+2021-04-05 20:46:17,223 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pagamento/src/main/java
+2021-04-05 20:46:17,223 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pagamento/src/main/resources
+2021-04-05 20:46:17,224 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pagamento/src/main/resources
+2021-04-05 20:46:17,226 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pagamento/src/test/java
+2021-04-05 20:46:17,277 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-04-05 20:46:17,568 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 20:46:17,568 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 20:46:17,568 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 20:46:17,569 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 20:46:17,570 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 21:23:38,247 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:23:38,247 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 21:23:38,248 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 21:23:38,250 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:23:38,250 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 21:23:58,013 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:23:58,013 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 21:23:58,014 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 21:23:58,015 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:23:58,015 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-05 21:24:47,399 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:24:47,400 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 21:24:47,402 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 21:24:47,405 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:24:47,405 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 21:32:05,068 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-05 21:32:05,372 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:pagamento:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/pagamento/pom.xml.
+2021-04-05 21:32:05,702 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pagamento/src/main/java
+2021-04-05 21:32:05,702 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pagamento/src/main/resources
+2021-04-05 21:32:05,703 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pagamento/src/main/resources
+2021-04-05 21:32:05,703 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pagamento/src/test/java
+2021-04-05 21:32:05,816 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-04-05 21:32:06,185 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:32:06,185 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 21:32:06,186 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 21:32:06,187 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:32:06,187 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 21:32:10,895 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:32:10,896 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 21:32:10,897 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 21:32:10,898 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:32:10,898 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 21:35:25,597 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:35:25,598 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 21:35:25,599 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 21:35:25,601 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:35:25,601 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 21:35:45,324 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:35:45,324 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 21:35:45,325 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 21:35:45,326 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 21:35:45,326 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 22:39:27,980 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 22:39:27,981 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 22:39:27,982 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 22:39:27,984 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 22:39:27,984 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 22:39:35,623 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5de45063{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-04-05 22:39:35,623 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-04-05 22:39:35,634 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@e77d30c{/help,null,STOPPED}
+2021-04-05 23:05:41,416 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-05 23:07:46,858 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 23:07:46,865 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-05 23:07:46,877 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-05 23:07:46,880 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-05 23:07:46,880 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-05 23:10:23,740 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @294484ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-04-05 23:10:23,877 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-27T20:36:51.615Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 15.0.1+9-18
+2021-04-05 23:10:23,897 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-04-05 23:10:23,897 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-04-05 23:10:23,899 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-04-05 23:10:23,928 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4d23fcdd{/help,null,AVAILABLE}
+2021-04-05 23:10:23,937 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4eebeb7c{HTTP/1.1, (http/1.1)}{127.0.0.1:46147}
+2021-04-05 23:10:23,938 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @294682ms
+2021-04-05 23:10:23,938 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 726000ms
+2021-04-06 11:33:37,295 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 11:33:37,300 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-06 11:33:37,307 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-06 11:33:37,317 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 11:33:37,318 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-06 12:44:30,782 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:44:30,782 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-06 12:44:30,783 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-06 12:44:30,786 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:44:30,786 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-06 12:45:18,614 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:45:18,614 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-06 12:45:18,615 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-06 12:45:18,617 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:45:18,617 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-06 12:45:36,045 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-06 12:45:36,626 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pierredev:ms-venda:0.0.1-SNAPSHOT @ /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/pom.xml.
+2021-04-06 12:45:37,093 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/main/java
+2021-04-06 12:45:37,093 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-06 12:45:37,093 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ms-venda/src/main/resources
+2021-04-06 12:45:37,094 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ms-venda/src/test/java
+2021-04-06 12:45:37,341 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-04-06 12:45:37,984 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:45:37,985 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-06 12:45:37,986 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-06 12:45:37,988 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:45:37,989 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/ms-venda/src/test/resources
+2021-04-06 12:46:23,611 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:46:23,612 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-06 12:46:23,613 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-06 12:46:23,615 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:46:23,616 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
+2021-04-06 12:46:41,302 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:46:41,302 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-06 12:46:41,303 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-06 12:46:41,307 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-06 12:46:41,307 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/pierre/Documents/meus-projetos/microservices-java/pagamento/src/test/resources
