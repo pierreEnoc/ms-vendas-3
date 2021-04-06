@@ -1,0 +1,41 @@
+package com.pierredev.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.stereotype.Service;
+
+import com.pierredev.data.vo.VendaVO;
+import com.pierredev.entities.Venda;
+import com.pierredev.repositories.ProdutoRepository;
+import com.pierredev.repositories.VendaRepository;
+
+@Service
+public class VendaService {
+	
+
+	private final VendaRepository vendaRepository;
+	//private final ProdutoSendMessage produtoSendMessage;
+
+	@Autowired
+	public VendaService(VendaRepository produtoRepository) {
+		this.vendaRepository = produtoRepository;
+		
+	}
+	
+	public VendaVO create(VendaVO vendaVO) {
+		VendaVO vendaVoRetorno = VendaVO.create(vendaRepository.save(Venda.create(vendaVO)));
+	 	return vendaVoRetorno;
+	}
+	
+	public Page<VendaVO> findAll(Pageable pageable) {
+		var page = vendaRepository.findAll(pageable);
+		return page.map(this::convertToVendaVO);
+	}
+
+	private VendaVO convertToVendaVO(Venda venda) {
+		return VendaVO.create(venda);
+	}
+
+
+}
