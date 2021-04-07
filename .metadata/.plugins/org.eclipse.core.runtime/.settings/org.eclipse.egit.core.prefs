@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/.git\:
-GitRepositoriesView.GitDirectories.relative=ms-vendas/.git\:
+GitRepositoriesView.GitDirectories=/home/pierre/Documents/meus-projetos/microservices-java/.git\:/home/pierre/Documents/meus-projetos/microservices-java/ms-vendas/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:ms-vendas/.git\:
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
